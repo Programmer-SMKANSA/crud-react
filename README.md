@@ -23,9 +23,7 @@ first install all packages
 ```javascript
 npm install
 ```
-<br>
-and then 
-<br>
+and then
 ```javascript
 npm run dev
 ```
