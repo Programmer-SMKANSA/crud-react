@@ -20,8 +20,12 @@ how to run?
 
 first install all packages
 <br>
-<code> npm install </code>
+```javascript
+npm install
+```
 <br>
 and then 
 <br>
-<code> npm run dev </code>
+```javascript
+npm run dev
+```
