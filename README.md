@@ -19,6 +19,9 @@ If you are developing a production application, we recommend using TypeScript wi
 how to run?
 
 first install all packages
+<br>
 <code> npm install </code>
+<br>
 and then 
+<br>
 <code> npm run dev </code>
